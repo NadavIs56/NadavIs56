@@ -12,7 +12,8 @@
 
 <br><br><br><br><br>
 
-## I'm Nadav, 💻 software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b> Israel</b>
+<p align='center">
+  I'm Nadav, 💻 software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b> Israel</b> <br> Take a peek into my journey! 🚀 </p>
 
 
 
