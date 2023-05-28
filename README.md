@@ -9,10 +9,10 @@
   <h3 align="center"> I'm Nadav, 💻 software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b> Israel.</b> <br> Take a peek into my journey! 🚀 </h3></p>
 <br>
 
-<div align="center">
+
   <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey"> 
   [![Linkedin: nadav-ishai-bb0284197](https://img.shields.io/badge/-NadavIshai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai-bb0284197/)](https://www.linkedin.com/in/nadav-ishai-bb0284197/)
-</div>
+
 
 
 
