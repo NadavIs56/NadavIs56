@@ -5,7 +5,8 @@
   <h1 align="center">✩&emsp;Welcome!&emsp;✩</h1>
 </p>
 
-<br><br>
+<br>
+
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey">
 </p>
