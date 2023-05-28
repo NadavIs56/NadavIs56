@@ -13,8 +13,9 @@
 </p>
 
 <br>
+
 <p align="left">
-  <h2>You can reach me here:</h2>
+  You can reach me here:
 </p>
 
 📧 [Gmail](nadavishai@gmail.com) <br>
