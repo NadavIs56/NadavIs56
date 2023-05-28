@@ -10,7 +10,8 @@
 <br>
 
 <p align="center">
-   <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey"> <a href="https://www.linkedin.com/in/nadav-ishai-bb0284197/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey"> [![Linkedin: NadavIshai](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai-bb0284197//)]
+  <a href="https://www.linkedin.com/in/nadav-ishai-bb0284197/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
