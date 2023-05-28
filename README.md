@@ -16,11 +16,11 @@
 <h2>You can reach me here:</h2>
 <br>
 
-<p>📧 [Gmail](nadavishai@gmail.com)</p>
+📧 [Gmail](nadavishai@gmail.com)
 
-<p>🔗 [LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/) </p>
+🔗 [LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/) 
 
-<p>📌 Israel</p>
+📌 Israel
 
 
 
