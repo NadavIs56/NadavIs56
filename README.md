@@ -14,8 +14,9 @@
 
 <br>
 <h2>You can reach me here:</h2>
-📧 [Gmail](nadavishai@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/)
+<br>
+📧 [Gmail](nadavishai@gmail.com) <br>
+🔗 [LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/) <br>
 📌 Israel
 
 
