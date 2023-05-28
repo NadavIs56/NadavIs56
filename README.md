@@ -11,7 +11,7 @@
 💻 Software Engineer | Problem Solver | Detail-Oriented
 
 📧 nadavishai@gmail.com
-🔗 ![LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/)
 📌 Israel
 
 
