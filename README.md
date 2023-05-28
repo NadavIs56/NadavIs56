@@ -1,8 +1,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">****
 
-### Hi there 👋
+### <p align="center"> Hi there 👋🏼 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadavIs56)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NadavIs56/NadavIs56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
