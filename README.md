@@ -22,3 +22,183 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    
+    td {
+      width: 10px;
+      height: 10px;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tbody>
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <!-- Replace "0" with "1" for days where you used GitHub -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <!-- Replace "0" with "1" for days where you used GitHub -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <!-- Replace "0" with "1" for days where you used GitHub -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <!-- Replace "0" with "1" for days where you used GitHub -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <!-- Replace "0" with "1" for days where you used GitHub -->
+      <tr>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+        <td bgcolor="#0E4429"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <!-- Replace "0" with "1" for days where you used GitHub -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+      <tr>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+        <td bgcolor="#161B22"></td>
+      </tr>
+      <!-- Repeat the above row for 52 weeks -->
+    </tbody>
+  </table>
+</body>
+</html>
