@@ -11,10 +11,7 @@
 </p>
 
 <p align="left">
-  
   <h2 align="left">I'm Nadav, a software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b>Beer Sheva, Israel</b></h2>
-  
-  <h4 align="left">I am a highly skilled and detail-oriented software engineering student with honors, currently in my 4th year at SCE College. I am passionate about solving complex problems and creating efficient software solutions. With expertise in multiple programming languages including C, C++, Java, and Python, I possess a solid foundation in software development methodologies and strong command of SQL for effective database management. I am also experienced in working with the Django web framework and proficient in Linux. <h4>
 </p>
 
 
