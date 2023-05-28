@@ -10,9 +10,9 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey">
 </p>
 
-<p align="left">
-  <h2 align="left">I'm Nadav, a software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b>Beer Sheva, Israel</b></h2>
-</p>
+
+ <h2 align="left">I'm Nadav, a software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b>Beer Sheva, Israel</b></h2>
+
 
 
  ### You can reach me here:
