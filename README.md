@@ -11,7 +11,8 @@
 
 
   <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey"> 
-  [![Linkedin: nadav-ishai-bb0284197](https://img.shields.io/badge/-NadavIshai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai-bb0284197/)](https://www.linkedin.com/in/nadav-ishai-bb0284197/)
+  
+  [![Linkedin: nadav-ishai](https://img.shields.io/badge/-nadav-ishai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai-bb0284197/)](https://www.linkedin.com/in/nadav-ishai)
 
 
 
