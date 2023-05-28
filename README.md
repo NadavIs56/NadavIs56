@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <h1 align="center">✩&emsp;Hey there!&emsp;✩</h1>
+  <h1 align="center">✩&emsp;Welcome!&emsp;✩</h1>
 </p>
 
 <br>
