@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey">
+    <img id="preview" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/nadav-ishai-bb0284197/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/></a>
 </p>
 
 
