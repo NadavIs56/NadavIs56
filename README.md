@@ -11,7 +11,6 @@
 
 <p align="center">
 <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey"> 
-  
 [![Linkedin: nadav-ishai](https://img.shields.io/badge/-Let'sConnect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai/)](https://www.linkedin.com/in/nadav-ishai/)
 </p>
 
