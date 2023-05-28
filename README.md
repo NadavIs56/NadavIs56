@@ -17,9 +17,7 @@
 <br>
 
 📧 [Gmail](nadavishai@gmail.com)
-
 🔗 [LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/) 
-
 📌 Israel
 
 
