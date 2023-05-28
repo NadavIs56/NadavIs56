@@ -7,6 +7,19 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey">
 </p>
+
+💻 Software Engineer | Problem Solver | Detail-Oriented
+
+📧 nadavishai@gmail.com
+🔗 ![LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/)
+📌 Israel
+
+
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/nadavis56"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadavis56&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
