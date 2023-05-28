@@ -8,13 +8,15 @@
 <br>
 
 <p align="center">
+  <h3 align="center"> I'm Nadav, 💻 software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b> Israel</b> <br> Take a peek into my journey! 🚀 </h3></p>
+
+<p align="center">
    <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey"> <a href="https://www.linkedin.com/in/nadav-ishai-bb0284197/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
 
-<p align="center">
-  <h3 align="center"> I'm Nadav, 💻 software engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b> Israel</b> <br> Take a peek into my journey! 🚀 </h3></p>
+
 
 <br><br>
 
