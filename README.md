@@ -8,9 +8,13 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=grey">
 </p>
 
-💻 Software Engineer | Problem Solver | Detail-Oriented
+<p align="center">
+  <h2 align="center">💻 Software Engineer</h2>
+</p>
 
-📧 nadavishai@gmail.com
+<br>
+<h2>You can reach me here:</h2>
+📧 [Gmail](nadavishai@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/nadav-ishai-bb0284197/)
 📌 Israel
 
