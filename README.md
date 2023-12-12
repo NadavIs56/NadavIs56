@@ -13,13 +13,7 @@
 
 <br><br>
 
-<img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=brightgreen"> 
-
-[![Linkedin: nadav-ishai](https://img.shields.io/badge/-Let'sConnect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai/)](https://www.linkedin.com/in/nadav-ishai/) 
-
-[![GitHub NadavIs56](https://img.shields.io/github/followers/nadavis56?label=follow&style=social)](https://github.com/nadavis56)
-
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=brightgreen"> [![Linkedin: nadav-ishai](https://img.shields.io/badge/-Let'sConnect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai/)](https://www.linkedin.com/in/nadav-ishai/) [![GitHub NadavIs56](https://img.shields.io/github/followers/nadavis56?label=follow&style=social)](https://github.com/nadavis56) <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 
 </div>
 
