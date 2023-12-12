@@ -15,7 +15,3 @@
 
 </div>
 
-
-
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=NadavIs56.Skin_Disease_AI&left_color=green&right_color=red)
