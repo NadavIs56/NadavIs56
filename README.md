@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<br>
+<br><br>
 
 <img id="preview" src="https://komarev.com/ghpvc/?username=nadavis56&color=brightgreen"> [![Linkedin: nadav-ishai](https://img.shields.io/badge/-Let'sConnect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadav-ishai/)](https://www.linkedin.com/in/nadav-ishai/) [![GitHub NadavIs56](https://img.shields.io/github/followers/nadavis56?label=follow&style=social)](https://github.com/nadavis56)
 
