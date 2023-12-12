@@ -16,4 +16,5 @@
 </div>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NadavIs56&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=NadavIs56&count_private=true&show_icons=true&include_all_commits=true) -->
+
